@@ -1,6 +1,11 @@
+ ( function( $ ) {
+
+    "use strict";
+
+    
  
 
-    var mobileAnimation = false;
+    var mobileAnimation = true;
         
     var wow = '';
 
@@ -93,4 +98,4 @@
         }
     }
   
- 
+ })( jQuery );
